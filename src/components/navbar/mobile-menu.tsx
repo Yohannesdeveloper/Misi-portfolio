@@ -3,7 +3,7 @@
 import React from "react";
 import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
-import { X, ArrowUpRight, Activity, ShieldCheck, Stethoscope, Sparkles } from "lucide-react";
+import { X, ArrowUpRight, Activity, Sparkles } from "lucide-react";
 import { NAV_ITEMS, NavItem } from "./nav-items";
 import { ThemeToggle } from "./theme-toggle";
 

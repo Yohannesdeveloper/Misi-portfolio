@@ -4,10 +4,10 @@ import React from "react";
 import Image from "next/image";
 import { Navbar } from "@/components/navbar/navbar";
 import {
-  HeartPulse, Brain, Baby, ArrowDown, ArrowUpRight, ArrowUp,
-  CheckCircle2, Syringe, Trophy, BookOpen, Briefcase,
+  Baby, ArrowDown, ArrowUp,
+  Syringe, Trophy, Briefcase,
   GraduationCap, ImageIcon, Mail, Sparkles, Activity,
-  Shield, Stethoscope, Zap, Layers,
+  Shield, Zap, Layers,
 } from "lucide-react";
 import { motion } from "framer-motion";
 

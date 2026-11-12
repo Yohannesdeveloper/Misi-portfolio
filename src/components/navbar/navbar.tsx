@@ -1,14 +1,12 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { motion, useScroll, useMotionValueEvent } from "framer-motion";
 import Image from "next/image";
 import {
   Menu,
-  Activity,
   ArrowUpRight,
   Sparkles,
-  ShieldAlert,
 } from "lucide-react";
 import { NAV_ITEMS } from "./nav-items";
 import { VitalMonitor } from "./vital-monitor";
